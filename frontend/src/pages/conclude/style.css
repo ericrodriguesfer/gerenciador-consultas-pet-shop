@@ -1,0 +1,13 @@
+.title-conclude{
+    font-size: 40px;
+    margin-left: 270px;
+    margin-top: 70px;
+    color: #3F3D56;
+}
+
+.button-logout-conclude{
+    width: 100px !important;
+    margin-top: 50px !important;
+    margin-left: 300px;
+    margin-right: 0px;
+}

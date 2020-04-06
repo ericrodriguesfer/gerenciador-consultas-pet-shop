@@ -1,0 +1,27 @@
+.box-today{
+    width: 350px;
+    height: 25vh;
+    border-radius: 8px;
+    background-color: #6C63FF;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #3F3D56;
+}
+
+.box-today p{
+    text-align: left !important;
+}
+
+.title-today{
+    font-size: 45px;
+    margin-left: 190px;
+    margin-top: 70px;
+    color: #3F3D56;
+}
+
+.button-logout-today{
+    width: 100px !important;
+    margin-top: 50px !important;
+    margin-left: 270px;
+    margin-right: 0px;
+}

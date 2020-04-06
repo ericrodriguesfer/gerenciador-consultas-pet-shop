@@ -1,0 +1,13 @@
+.title-cancel{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 70px;
+    color: #3F3D56;
+}
+
+.button-logout-cancel{
+    width: 100px !important;
+    margin-top: 50px !important;
+    margin-left: 235px;
+    margin-right: 0px;
+}

@@ -1,0 +1,50 @@
+.container-register{
+    width: 100%;
+    max-width: 1500px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 45px;
+    margin-left: 230px;
+    margin-top: 70px;
+    color: #3F3D56;
+}
+
+header{
+    max-width: 1500px;
+    display: flex;
+}
+
+header img{
+    width: 200px;
+    margin-top: 15px;
+}
+
+
+.button-logout-register{
+    width: 100px !important;
+    margin-top: 50px !important;
+    margin-left: 250px;
+    margin-right: 0px;
+}
+
+
+.form-register{
+    max-width: 1500px;
+    height: 40vh;
+    column-count: 2;
+    float: left;
+    margin-left: 200px;
+}
+
+.form-register input{
+    width: 500px;
+    margin-top: 10px;
+}
+
+.form-register button{
+    width: 500px;
+    margin-top: 10px !important;
+}
